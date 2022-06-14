@@ -9,5 +9,6 @@ References
 ----------
 
 - Eric Meyer (owner): [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
-- Stack Overflow: [Is there a HTML test file I can use for CSS resets?](https://stackoverflow.com/questions/4716447/is-there-a-html-test-file-i-can-use-for-css-resets)
-- Snipplr: [HTML Test Page for CSS Style Guide](https://snipplr.com/view/8121/html-test-page-for-css-style-guide)
+- ~~Stack Overflow: [Is there a HTML test file I can use for CSS resets?](https://stackoverflow.com/questions/4716447/is-there-a-html-test-file-i-can-use-for-css-resets)~~
+- ~~Snipplr: [HTML Test Page for CSS Style Guide](https://snipplr.com/view/8121/html-test-page-for-css-style-guide)~~
+- Normalize.css (v2.1.3): [UI tests](https://github.com/necolas/normalize.css/tree/gh-pages/2.1.3)
